@@ -6,9 +6,3 @@ dependencies:
   - python=3.9
   - snowflake-snowpark-python
   - streamlit
-  - pip
-  - pip:
-      - rich
-      - markdown-it-py
-      - mdurl
-      - pygments
